@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744146992198",
+    "project_id": "mendoza-app-da4df",
+    "storage_bucket": "mendoza-app-da4df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744146992198:android:878c952cbf1bc698869e47",
+        "android_client_info": {
+          "package_name": "com.example.mendoza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATTtP6mNhK5FymxFw0S51sAMPSCKMEKMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
